@@ -125,8 +125,6 @@ Setelah import `jago_nyurat.sql`, tersedia akun siap pakai berikut:
 | **Sekum** | `2210631250009@student.unsika.ac.id` | *(lihat di SQL dump / tanya pengelola)* |
 | **Sekpel** | `pkkmb2026@gmail.com` | *(lihat di SQL dump / tanya pengelola)* |
 
-> **Catatan:** Password di atas adalah contoh. Jika login gagal, password asli mungkin berbeda karena data di SQL adalah hash bcrypt. Gunakan fitur reset password atau ganti hash manual via phpMyAdmin.
-
 ### Membuat Akun Baru
 
 Akun baru **hanya bisa dibuat oleh Sekum** melalui menu **Manajemen User** di dashboard Sekum. Tidak ada halaman registrasi publik.
@@ -307,4 +305,4 @@ Ini perilaku normal. Sekpel **wajib melengkapi profil** (nama, NPM, tanda tangan
 ## Lisensi
 
 Proyek ini dibuat untuk keperluan internal BEM FASILKOM UNSIKA.  
-Hak cipta © 2025–2026 Tim JagoNyurat.
+Hak cipta © 2025–2026 Rizal Abror Munir.
